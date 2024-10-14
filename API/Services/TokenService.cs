@@ -6,6 +6,7 @@ using System.Security.Claims;
 using System.Text;
 using System.Threading.Tasks;
 using Domain;
+using Domain.Entities;
 using Microsoft.IdentityModel.Tokens;
 
 namespace API.Services

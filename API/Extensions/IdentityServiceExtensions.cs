@@ -5,6 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using API.Services;
 using Domain;
+using Domain.Entities;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.IdentityModel.Tokens;
 using Persistence;
